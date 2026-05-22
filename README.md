@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**codedatelier/codedatelier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I’m Felipe 👋
 
 Creative developer, visual artist and software development student passionate about the intersection of art, design and technology.  
@@ -24,5 +19,4 @@ Creative coding • Visual design • Interactive experiences • Traditional ar
 - Interactive gallery website
 - Personal branding and design projects
 
-> “Creating digital experiences through art and technology.” 
-
+> “Creating digital experiences through art and technology.”
